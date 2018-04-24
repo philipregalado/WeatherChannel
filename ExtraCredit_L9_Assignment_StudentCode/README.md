@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+04/23/18
 
 ### Student Name:  
-(First and Last Name)
+Philip Regalado
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project I worked to finish an application that will give feedback on the weather forecast for a certain area, for up to at least 7 days in advance.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://philipregalado.github.io/WeatherChannel/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned in this lesson how to further use API kyes, and know as to what id's they use to call on. 
+2. I worked on using javascript to display information found by my API key on my HTML screen in a row/table fashion.
+3. This was the first time that my search engine was able to use more than one type of input, either zipcode, address, city, etc. This was a cool thing to work on and be able to see how far you can search in a database with an API key.
 
